@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -31,7 +30,7 @@
     </script>
 </head>
 <body>
-    <h1>Welcome to my website!</h1>
+    <h1>Welcome to my website my name is David!</h1>
     <p>Check out this cool animated URL:</p>
     <p class="animated-url">🌍🚀🌟https://www.example.com🌟🚀🌍</p>
 </body>
