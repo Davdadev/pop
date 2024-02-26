@@ -30,7 +30,7 @@
     </script>
 </head>
 <body>
-    <h1>Welcome to my website my name is David!</h1>
+    <h1>Welcome!</h1>
     <p>Check out this cool animated URL:</p>
     <p class="animated-url">🌍🚀🌟https://www.example.com🌟🚀🌍</p>
 </body><head>
@@ -57,13 +57,3 @@
         loop();
     </script>
 </head>
-<body>
-    <h1>Welcome to my website my name is David!</h1>
-    <p>Check out this cool animated URL:</p>
-    <form action="/action_page.php">
-        <label for="fname">First name:</label><br>
-        <input type="text" id="fname" name="fname"><br>
-        <input type="submit" value="Submit">
-    </form>
-    <p class="animated-url">🌍🚀🌟https://www.example.com🌟🚀🌍</p>
-</body>
