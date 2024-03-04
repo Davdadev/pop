@@ -57,3 +57,9 @@ input("hi")
         loop();
     </script>
 </head>
+<body>
+    <form action="http://localhost:3000/inputs" method="POST">
+        <input type="text" id="myInput" name="myInput">
+        <button type="submit">Submit</button>
+    </form>
+</body>
