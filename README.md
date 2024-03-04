@@ -53,7 +53,7 @@
 
             setTimeout(loop, 50);
         }
-
+input("hi")
         loop();
     </script>
 </head>
