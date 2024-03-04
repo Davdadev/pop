@@ -32,7 +32,7 @@
 <body>
     <h1>Welcome!</h1>
     <p>Check out this cool animated URL:</p>
-    <p class="animated-url">🌍🚀🌟https://www.example.com🌟🚀🌍</p>
+    <p class="animated-url">🌍🚀🌟hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii🌟🚀🌍</p>
 </body><head>
     <style>
         .animated-url {
